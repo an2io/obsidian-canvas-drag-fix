@@ -1,0 +1,10 @@
+{
+	"id": "canvas-drag-fix",
+	"name": "Canvas Drag Fix",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Fixes Canvas drag-and-drop on Linux when Chromium misclassifies the mouse as a pen device. Common in VMware/VirtualBox guests, ChromeOS Crostini, and some Wayland setups.",
+	"author": "an2",
+	"authorUrl": "https://github.com/an2io",
+	"isDesktopOnly": true
+}
