@@ -1,6 +1,6 @@
 {
 	"name": "canvas-drag-fix",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Fixes Canvas drag-and-drop on Linux when Chromium misclassifies the mouse as a pen device.",
 	"main": "main.js",
 	"type": "module",
@@ -27,11 +27,9 @@
 		"eslint-plugin-obsidianmd": "0.1.9",
 		"globals": "14.0.0",
 		"jiti": "2.6.1",
+		"obsidian": "1.12.3",
 		"tslib": "2.4.0",
 		"typescript": "^5.8.3",
 		"typescript-eslint": "8.35.1"
-	},
-	"dependencies": {
-		"obsidian": "latest"
 	}
 }
